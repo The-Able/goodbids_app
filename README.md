@@ -33,7 +33,6 @@ $ npm run deploy
 
 
 ## Updating types locally
-[from the supabaase docs](https://supabase.com/docs/guides/database/api/generating-types)
 
 to update db types locally, first you need to install the supabase cli
 ```zsh
